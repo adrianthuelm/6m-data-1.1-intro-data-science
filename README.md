@@ -24,5 +24,5 @@ By the end of this session, you will be able to:
 
 ## **📂 Resources**
 
-* [Pre-Study Guide](https://www.google.com/search?q=./Pre_Study/Hierarchy_of_Needs_Guide.md)  
-* [Netflix Case Study](https://www.google.com/search?q=./Activities/Netflix_Case_Study.md)
+* [Pre-Study Guide](https://github.com/su-ntu-ctp/6m-data-1.1-intro-data-science/blob/main/Pre-Study.md)  
+* [Netflix Case Study](https://github.com/su-ntu-ctp/6m-data-1.1-intro-data-science/blob/main/CaseStudy.md)
