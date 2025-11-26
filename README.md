@@ -1,58 +1,28 @@
-# 1.1 Introduction to Data Science
+# **Class 2: Intro to Data Science (Virtual)**
 
-## Dependencies
+**Theme:** Understanding the Data Lifecycle
 
-Refer to the following markdown file for the respective sections of the class:
+## **📅 Agenda**
 
-- [First-time Installation](./installation.md)
-- [Self Studies](./studies.md)
-- [Lesson](./lesson.md)
-- [Assignment](./assignment.md)
-- [Quiz](./quiz.md)
-- [Reference](./reference.md)
+| Time | Activity | Description |
+| :---- | :---- | :---- |
+| **0:00 \- 0:25** | 🔄 **Recap & Pre-Assessment** | Review of the "Hierarchy of Needs" pre-study and a quick quiz on AI vs Data Science. |
+| **0:25 \- 0:50** | 🛤️ **Sprint 1: The Pipeline** | Hands-on mapping of the Data Pipeline (Collection $\\to$ Cleaning $\\to$ Analysis $\\to$ Viz). |
+| **0:50 \- 1:15** | 📄 **Sprint 2: Data Types** | Structured (Excel/SQL) vs. Unstructured (Images/Text/Audio). |
+| **1:15 \- 1:40** | ⚖️ **Sprint 3: Ethics** | Discussing bias in data and the "Garbage In, Garbage Out" principle. |
+| **1:40 \- 2:05** | 🎬 **Sprint 4: Case Study** | **Netflix Group Discussion:** How do they know what you want to watch? |
+| **2:05 \- 3:00** | 🏁 **Wrap Up** | Post-Assessment and preparation for SQL setup. |
 
-## Lesson Objectives
+## **🎯 Learning Outcomes**
 
-Learners will understand:
+By the end of this session, you will be able to:
 
-- Data science lifecycle
-- Data functions and roles
-- What is a database
-- Data science toolbox
-- Python modules and environments
-- Git and github workflow
+1. Explain the difference between **Data Analytics**, **Data Science**, and **AI**.  
+2. Identify the 4 stages of a standard **Data Pipeline**.  
+3. Distinguish between **Structured** and **Unstructured** data.  
+4. Recognize potential **ethical biases** in data collection.
 
-Learners will be able to:
+## **📂 Resources**
 
-- Install all the necessary development tools for this program
-  - Git
-  - Miniconda
-  - DBeaver
-  - VSCode
-- Install VSCode plugins
-  - Python extension
-  - Jupyter extension
-- Manage conda environments
-  - Create/activate/deactivate/remove environment
-  - Install/uninstall packages
-  - Freeze dependencies
-- Perform git and github workflow
-  - Create/clone repository
-  - Add/commit/push/pull changes
-
-## Lesson Plan
-
-| Duration | What                    | How or Why                                                                      |
-| -------- | ----------------------- | ------------------------------------------------------------------------------- |
-| - 5mins  | Start zoom session      | So that learners can join early and start class on time.                        |
-| 30 mins  | Activity                | Recap on self-study and prework materials.                                      |
-| 30 mins  | Concept                 | Part 1: Introduction to data science and database.                              |
-|          | **1 HR MARK**           |
-| 30 mins  | Concept                 | Part 2: Introduction to data science toolbox.                                   |
-| 10 mins  | Break                   |                                                                                 |
-| 20 mins  | Setup                   | Set up VSCode, extensions, python, git and github.                              |
-|          | **2 HR MARK**           |
-| 20 mins  | Concept                 | Part 3: Python environments and git + github workflow.                          |
-| 30 mins  | Code-along              | Demonstrate and guide learners on python code execution, git + github workflow. |
-| 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.                                  |
-|          | **END CLASS 3 HR MARK** |
+* [Pre-Study Guide](https://www.google.com/search?q=./Pre_Study/Hierarchy_of_Needs_Guide.md)  
+* [Netflix Case Study](https://www.google.com/search?q=./Activities/Netflix_Case_Study.md)
