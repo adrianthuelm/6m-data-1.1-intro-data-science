@@ -24,5 +24,5 @@ By the end of this session, you will be able to:
 
 ## **📂 Resources**
 
-* [Pre-Study Guide](https://github.com/su-ntu-ctp/6m-data-1.1-intro-data-science/blob/main/Pre-Study.md)  
-* [Netflix Case Study](https://github.com/su-ntu-ctp/6m-data-1.1-intro-data-science/blob/main/CaseStudy.md)
+* [Pre-Study Guide](./pre-class.md)  
+* [Netflix Case Study](./case_study.md)
