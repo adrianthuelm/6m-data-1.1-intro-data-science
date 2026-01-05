@@ -4,14 +4,24 @@
 
 ## **📅 Agenda**
 
-| Time | Activity | Description |
+# **🎓 Lesson 1.1: Agenda Summary**
+
+| Time | Section | Topic / Activity |
 | :---- | :---- | :---- |
-| **0:00 \- 0:25** | 🔄 **Recap & Pre-Assessment** | Review of the "Hierarchy of Needs" pre-study and a quick quiz on AI vs Data Science. |
-| **0:25 \- 0:50** | 🛤️ **Sprint 1: The Pipeline** | Hands-on mapping of the Data Pipeline (Collection $\\to$ Cleaning $\\to$ Analysis $\\to$ Viz). |
-| **0:50 \- 1:15** | 📄 **Sprint 2: Data Types** | Structured (Excel/SQL) vs. Unstructured (Images/Text/Audio). |
-| **1:15 \- 1:40** | ⚖️ **Sprint 3: Ethics** | Discussing bias in data and the "Garbage In, Garbage Out" principle. |
-| **1:40 \- 2:05** | 🎬 **Sprint 4: Case Study** | **Netflix Group Discussion:** How do they know what you want to watch? |
-| **2:05 \- 3:00** | 🏁 **Wrap Up** | Post-Assessment and preparation for SQL setup. |
+| **0:00 \- 1:00** | **Part 1: The Hierarchy of Insights** | **Definitions: Analytics vs. DS vs. AI** |
+| 0:00 \- 0:10 | Theory Recap | The Kitchen Analogy (Hindsight ➔ Action) |
+| 0:10 \- 0:50 | Workshop | "The Company Diagnostic" & Python Peek |
+| 0:50 \- 1:00 | Q\&A | Netflix Case Study (Billing vs. Recommendations) |
+| **1:00 \- 2:00** | **Part 2: The Data Highway** | **Pipelines & Data Structures** |
+| 1:00 \- 1:10 | Theory Recap | 4 Stages of Data & Structured vs. Unstructured |
+| 1:10 \- 1:30 | Hands-On | "The Smart Watch Data Pipeline" Design |
+| 1:30 \- 1:50 | Hands-On | "Data Binning" (Hospital Data Sorting) |
+| 1:50 \- 2:00 | Q\&A | The "80/20 Rule" (Cleaning vs. Modeling) |
+| **2:00 \- 3:00** | **Part 3: The Conscious Algorithm** | **Ethics & Bias** |
+| 2:00 \- 2:10 | Theory Recap | Bias Types & "Garbage In, Garbage Out" |
+| 2:10 \- 2:50 | Workshop | "The Hiring Bot Post-Mortem" |
+| 2:50 \- 3:00 | Q\&A | Dataset "Warning Labels" & PR Nightmares |
+
 
 ## **🎯 Learning Outcomes**
 
