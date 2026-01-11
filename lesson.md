@@ -14,7 +14,7 @@ Explain the difference between Data Analytics, Data Science, and AI.
 
 ### **Theory Recap (10 min)**
 
-* **Andrew Ng Style Intuition:** Imagine a kitchen.  
+* **Analogy:** Imagine a kitchen.  
   * **Data Analytics** is checking the fridge to see what's left and writing a report on what was eaten (Historical).  
   * **Data Science** is using that list to predict what ingredients you'll need for next week's dinner (Predictive).  
   * **AI** is a robot chef that sees the fridge is empty and orders the groceries for you (Automated Action).
